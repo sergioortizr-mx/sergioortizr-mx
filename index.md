@@ -40,7 +40,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Desarrollo de scripts para diseño estructural.</div>
                 <div>• Optimización de proceso.</div>
             </div><br>
-        </div><br>
+        </div>
             <h4>Residente - Prácticas profesionales</h4>
             <div class="location">Morelos, México. Agosto 2023 - Diciembre 2023.</div><br>
             <div class="details">
