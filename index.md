@@ -108,7 +108,6 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
         </div><br>
 
 
-<br>
 
 # Educación
 
@@ -120,7 +119,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>Licenciatura en Ingeniería Civil. | Especialidad en Diseño Estructural</div>
             </div>
         </div><br>
-<br>
+
 # Habilidades
 
 <div class="container">
