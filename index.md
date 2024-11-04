@@ -52,7 +52,6 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Optimización de proceso.</div>
             </div>
         </div><br>
-<br>
 
 <div class="container">
         <div class="section">
@@ -67,7 +66,6 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Organización y manejo de personal.</div>
             </div>
         </div><br>
-<br>
 <div class="container">
         <div class="section">
             <h3>Colegio de Ingenieros Civiles del Estado de Morelos A.C.</h3>
@@ -80,7 +78,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Liderazgo de equipos diversos.</div>
             </div>
         </div><br>
-<br>
+
 <div class="container">
         <div class="section">
             <h3>Asociación Latinoamericada de Estudiantes de Ingeniería Civil A.C.</h3>
@@ -93,7 +91,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Liderazgo de equipos diversos.</div>
             </div>
         </div><br>
-<br>
+
 <div class="container">
         <div class="section">
             <h3>Asociación Nacional de Estudiantes de Ingeniería Civil A.C.</h3>
@@ -142,7 +140,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Español. (Nativo).</div>
                 <div>• Inglés. (B2)</div>
             </div>
-        </div><br>
+        </div>
 
 ---
 
