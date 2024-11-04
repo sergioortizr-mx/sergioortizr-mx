@@ -105,9 +105,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Planificación de actividades ambientales, académicas, técnicas, culturales y deportivas.</div>
                 <div>• Desarrollo de proyectos estudiantiles con diversas universidades.</div>
             </div>
-        </div><br>
-
-
+        </div>
 
 # **Educación**
 
@@ -118,7 +116,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             <div class="details">
                 <div>Licenciatura en Ingeniería Civil. | Especialidad en Diseño Estructural</div>
             </div>
-        </div><br>
+        </div>
 
 # **Habilidades**
 
@@ -135,8 +133,8 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Capacidad de motivación.</div>
             </div>
         </div><br>
-<br>
-# Idiomas
+
+# **Idiomas**
 
 <div class="container">
         <div class="section">
