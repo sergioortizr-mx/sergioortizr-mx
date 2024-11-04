@@ -109,7 +109,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
 
 
 
-# Educación
+# **Educación**
 
 <div class="container">
         <div class="section">
@@ -120,7 +120,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div><br>
 
-# Habilidades
+# **Habilidades**
 
 <div class="container">
         <div class="section">
