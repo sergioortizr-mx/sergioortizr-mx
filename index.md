@@ -101,7 +101,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Planificación de actividades ambientales, académicas, técnicas, culturales y deportivas.</div>
                 <div>• Desarrollo de proyectos estudiantiles con diversas universidades.</div>
             </div>
-        </div>
+        </div><br>
 
 # EDUCACIÓN
 
@@ -138,7 +138,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Español. (Nativo).</div>
                 <div>• Inglés. (B2)</div>
             </div>
-        </div>
+        </div><br>
 ---
 
 <center> © 2024 Sergio Ortiz Rios </center>
