@@ -25,7 +25,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
 <div class="container">
         <div class="section">
             <h1>EXPERIENCIA PROFESIONAL</h1>
-        </div><br>
+        </div>
 
 <div class="container">
         <div class="section">
@@ -105,7 +105,10 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div><br>
 
-# EDUCACIÓN
+<div class="container">
+        <div class="section">
+            <h1>EDUCACIÓN</h1>
+        </div>
 
 <div class="container">
         <div class="section">
@@ -116,7 +119,10 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div>
 
-# HABILIDADES
+<div class="container">
+        <div class="section">
+            <h1>HABILIDADES</h1>
+        </div>
 
 <div class="container">
         <div class="section">
@@ -132,7 +138,10 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div><br>
 
-# IDIOMAS
+<div class="container">
+        <div class="section">
+            <h1>IDIOMAS</h1>
+        </div>
 
 <div class="container">
         <div class="section">
