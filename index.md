@@ -19,14 +19,11 @@
 Soy un profesional joven, originario del Estado de Morelos, orgulloso egresado de la carrera de Ingeniería Civil por el Tecnológico Nacional de México, Campus Zacatepec. Desde mis años de estudio, he desarrollado una profunda pasión por la creación y optimización de proyectos de ingeniería, en especial en las áreas de diseño estructural, optimización de recursos y procesos de mejora continua. Esta inclinación me ha llevado a comprometerme a diario con el aprendizaje y la actualización constante en el ámbito de la Ingeniería Estructural, tanto en la teoría como en la práctica.
 
 Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada día a perfeccionar mis conocimientos y habilidades en el desarrollo de proyectos estructurales. Esto me permite estar al tanto de los avances en técnicas, metodologías y tecnologías emergentes que puedan aportar valor a los proyectos que emprendo.
-
-
-
-<p align="center">
-
 </p>
 
-# **Experiencia profesional**
+
+
+# EXPERIENCIA PROFESIONAL
 
 <div class="container">
         <div class="section">
@@ -106,7 +103,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div>
 
-# **Educación**
+# EDUCACIÓN
 
 <div class="container">
         <div class="section">
@@ -117,7 +114,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div>
 
-# **Habilidades**
+# HABILIDADES
 
 <div class="container">
         <div class="section">
@@ -133,8 +130,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div><br>
 
-<p>
-# **Idiomas**
+# IDIOMAS
 
 <div class="container">
         <div class="section">
@@ -143,7 +139,6 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Inglés. (B2)</div>
             </div>
         </div>
-</p>
 ---
 
 <center> © 2024 Sergio Ortiz Rios </center>
