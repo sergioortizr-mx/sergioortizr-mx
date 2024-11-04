@@ -5,15 +5,10 @@
 ---
 
 <p align="center">
-<img src="assets\img\jupyter logo.png" width="5.6%" height="10%">
 <img src="assets\img\python logo.png" width="6%" height="10%">
 <img src="assets\img\vs code logo.png" width="6%" height="10%">
-<img src="assets\img\colab logo.png" width="8.5%" height="10%">
-<img src="assets\img\anaconda logo.png" width="6.4%" height="10%">
-<img src="assets\img\github logo.png" width="6.35%" height="10%">
 <img src="assets\img\etabs logo.png" width="6%" height="10%">
 <img src="assets\img\sap2000 logo.png" width="6%" height="10%">
-<img src="assets\img\safe logo.png" width="6%" height="10%">
 <img src="assets\img\revit logo.png" width="7.6%" height="10%">
 <img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
