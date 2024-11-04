@@ -112,25 +112,40 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
 
 # Educación
 
-La programación permite la creación de modelos paramétricos y algoritmos de optimización que pueden manejar complejidades imposibles de gestionar manualmente. Esto no solo acelera el proceso de diseño, sino que también proporciona resultados más precisos y confiables.
+<div class="container">
+        <div class="section">
+            <h3>Tecnológico Nacional de México, Campus Zacatepec</h3>
+            <div class="location">Morelos, México. 2019 - 2023.</div><br>
+            <div class="details">
+                <div>Licenciatura en Ingeniería Civil. | Especialidad en Diseño Estructural</div>
+            </div>
+        </div>
 
-Generación de edificaciones paramétricas utilizando la API CSI Etabs y Python, otorgando al usuario una gran flexibilidad a la hora de cambiar los parámetros geométricos, mecánicos y solicitaciones de la estructura.
+# Habilidades y competencias
 
-Con este código, se automatizan alrededor del 90% de las etapas de diseño. Algunas de las tareas que este código realiza automáticamente incluyen:
+<div class="container">
+        <div class="section">
+            <div class="details">
+                <div>• Liderazgo.</div>
+                <div>• Desarrollo de proyectos de vinculación para estudiantes.</div>
+                <div>• Planificación de actividades ambientales, académicas, técnicas, culturales y deportivas.</div>
+                <div>• Desarrollo de proyectos estudiantiles con diversas universidades.</div>
+            </div>
+        </div>
 
-- Definición de Materiales.
-- Creación de Casos de Carga. 
-- Creación de Patrones de Carga.
-- Creación de Combinaciones de Carga
-- Asignación de cargas
-- Replicación de shells y cargas
-- Ejecución y análisis
+# Idiomas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7156653957082173440-277f?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7157768400155381762-3FgT?utm_source=share&utm_medium=member_desktop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_parametric-revit-dynamo-activity-7196539914572709888-GMUX?utm_source=share&utm_medium=member_desktop)
+<div class="container">
+        <div class="section">
+            <div class="details">
+                <div>• Liderazgo.</div>
+                <div>• Inglés (B2).</div>
+                <div>• Planificación de actividades ambientales, académicas, técnicas, culturales y deportivas.</div>
+                <div>• Desarrollo de proyectos estudiantiles con diversas universidades.</div>
+            </div>
+        </div>
 
-<dd>Con enfoques al diseño computacional y generativo</dd>
+
 
 <br>
 
