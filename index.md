@@ -22,11 +22,10 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
 
 
 <p align="center">
-<img src="assets\img\Curso API Etabs.jpg" width="46%" >
-<img src="assets\img\Curso Python.jpg" width="50%">
+
 </p>
 
-## **Automatización del Análisis Sísmico - E030**
+## **Experiencia profesional**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_python-api-etabs-activity-7041057672678252544-AEbp?utm_source=share&utm_medium=member_desktop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Post_LinkedIn-blue?logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/posts/luis-maldonado-de-la-torre_etabs-python-api-activity-7172947460221194240--udh?utm_source=share&utm_medium=member_desktop)
@@ -55,7 +54,7 @@ Generación de una plantilla de trabajo en Etabs a través de código Python. Co
 <img src="assets\img\API SAP.png" width="100%" height="100%">
 </p>
 
-## Modelo Paramétrico de Edificaciones
+## Educación
 
 La programación permite la creación de modelos paramétricos y algoritmos de optimización que pueden manejar complejidades imposibles de gestionar manualmente. Esto no solo acelera el proceso de diseño, sino que también proporciona resultados más precisos y confiables.
 
@@ -90,7 +89,7 @@ Con este código, se automatizan alrededor del 90% de las etapas de diseño. Alg
 <img src="assets\img\3params.gif" width="100%" height="100%">
 </p>
 
-## Automatización de generación de Gráficos
+## Habilidades y competencia
 
 Lectura de una Base de Datos en cualquier tipo de formato (Excel, csv, txt, etc.) y generación de gráficos de forma automática, en la presentación que se muestra, utilizando las librerías de Python.
 
