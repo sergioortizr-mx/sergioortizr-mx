@@ -39,7 +39,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Diseño de conexiones de acero asistido por computadora.</div>
                 <div>• Desarrollo de scripts para diseño estructural.</div>
                 <div>• Optimización de proceso.</div>
-            </div>
+            </div><br>
         </div><br>
             <h4>Residente - Prácticas profesionales</h4>
             <div class="location">Morelos, México. Agosto 2023 - Diciembre 2023.</div><br>
@@ -52,11 +52,11 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Optimización de proceso.</div>
             </div>
         </div><br>
-
+<br>
 
 <div class="container">
         <div class="section">
-            <h3>RTB CONSTRUCCIONES DE OBRA CIVIL S.A. DE C.V.</h3>
+            <h3>RTB Construcciones de Obra Civil S.A. DE C.V.</h3>
             <h4>Coordinador de supervisión</h4>
             <div class="location">Puebla, México. Febrero 2024 - Junio 2024.</div><br>
             <div class="details">
@@ -67,7 +67,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Organización y manejo de personal.</div>
             </div>
         </div><br>
-
+<br>
 <div class="container">
         <div class="section">
             <h3>Colegio de Ingenieros Civiles del Estado de Morelos A.C.</h3>
@@ -80,7 +80,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Liderazgo de equipos diversos.</div>
             </div>
         </div><br>
-
+<br>
 <div class="container">
         <div class="section">
             <h3>Asociación Latinoamericada de Estudiantes de Ingeniería Civil A.C.</h3>
@@ -93,7 +93,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Liderazgo de equipos diversos.</div>
             </div>
         </div><br>
-
+<br>
 <div class="container">
         <div class="section">
             <h3>Asociación Nacional de Estudiantes de Ingeniería Civil A.C.</h3>
@@ -108,7 +108,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
         </div><br>
 
 
-
+<br>
 
 # Educación
 
@@ -120,7 +120,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>Licenciatura en Ingeniería Civil. | Especialidad en Diseño Estructural</div>
             </div>
         </div><br>
-
+<br>
 # Habilidades
 
 <div class="container">
@@ -136,7 +136,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Capacidad de motivación.</div>
             </div>
         </div><br>
-
+<br>
 # Idiomas
 
 <div class="container">
