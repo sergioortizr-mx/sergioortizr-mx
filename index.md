@@ -13,7 +13,8 @@
 <img src="assets\img\autocad logo1.png" width="6.65%" height="10%">
 <img src="assets\img\excel logo.png" width="6.5%" height="10%">
 <img src="assets\img\latex logo.png" width="12.5%" height="10%">
-</p>
+
+<p align="justify">
 
 Soy un profesional joven, originario del Estado de Morelos, orgulloso egresado de la carrera de Ingeniería Civil por el Tecnológico Nacional de México, Campus Zacatepec. Desde mis años de estudio, he desarrollado una profunda pasión por la creación y optimización de proyectos de ingeniería, en especial en las áreas de diseño estructural, optimización de recursos y procesos de mejora continua. Esta inclinación me ha llevado a comprometerme a diario con el aprendizaje y la actualización constante en el ámbito de la Ingeniería Estructural, tanto en la teoría como en la práctica.
 
@@ -132,6 +133,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
             </div>
         </div><br>
 
+<p>
 # **Idiomas**
 
 <div class="container">
@@ -141,7 +143,7 @@ Para mí, el aprendizaje es un proceso incesante; por ello, dedico tiempo cada d
                 <div>• Inglés. (B2)</div>
             </div>
         </div>
-
+</p>
 ---
 
 <center> © 2024 Sergio Ortiz Rios </center>
